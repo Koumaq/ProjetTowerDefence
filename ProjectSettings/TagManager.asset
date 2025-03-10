@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ennemi
+  - Tour
+  - UI
+  - script
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Ennemi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Case
+    uniqueID: 1668017385
+    locked: 0
+  - name: Tours
+    uniqueID: 3981152981
+    locked: 0
+  - name: Ennime
+    uniqueID: 2951768765
+    locked: 0
+  - name: Chateau
+    uniqueID: 123564593
+    locked: 0
+  m_RenderingLayers:
+  - Default
